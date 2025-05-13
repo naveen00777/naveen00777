@@ -1,9 +1,14 @@
-<img src="">
+
+<p align="center">
+<img src="J4o.gif" alt="Welcome Banner" style="width: 1500px; height: 300px; object-fit: cover;" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Naveen Kumar N</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen00777&label=Profile%20views&color=0e75b6&style=flat" alt="naveen00777" /> </p>
+<p align="center">
+  <img src="DXKg.gif" alt="Tech Working GIF" width="600" />
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=naveen00777&label=Profile%20views&color=0e75b6&style=flat" alt="naveen00777" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveen00777" alt="naveen00777" /></a> </p>
 
